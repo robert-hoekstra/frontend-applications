@@ -1,0 +1,24 @@
+{
+  "name": "frontend-applications",
+  "version": "1.0.0",
+  "description": "Volkenkunde Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robert-hoekstra/frontend-applications.git"
+  },
+  "keywords": [
+    "Vue",
+    "Volkenkunde",
+    "Application"
+  ],
+  "author": "Robert Hoekstra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robert-hoekstra/frontend-applications/issues"
+  },
+  "homepage": "https://github.com/robert-hoekstra/frontend-applications#readme"
+}
