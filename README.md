@@ -3,7 +3,27 @@ Wij houden van Japan!
 
 ![Imgur](https://i.imgur.com/ILfI2Y4.jpg)
 
-## Table of Contents
+## Inhoudsopgave
+- [Nihon aishiteruyo!](#nihon-aishiteruyo-)
+  * [Inhoudsopgave](#inhoudsopgave)
+  * [Het Concept](#het-concept)
+  * [Voor wie is de applicatie?](#voor-wie-is-de-applicatie-)
+  * [Welke data wordt er gebruikt?](#welke-data-wordt-er-gebruikt-)
+    + [Hoe wordt de data verkregen?](#hoe-wordt-de-data-verkregen-)
+  * [Op welke devices gaat het werken?](#op-welke-devices-gaat-het-werken-)
+  * [Hoe start ik de applicatie (online)?](#hoe-start-ik-de-applicatie--online--)
+  * [Hoe start ik de applicatie (offline)?](#hoe-start-ik-de-applicatie--offline--)
+  * [Geen NPM of Node?](#geen-npm-of-node-)
+- [How to get Ember running](#how-to-get-ember-running)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+  * [Running / Development](#running---development)
+    + [Code Generators](#code-generators)
+    + [Running Tests](#running-tests)
+    + [Linting](#linting)
+    + [Building](#building)
+    + [Deploying](#deploying)
+  * [Further Reading / Useful Links](#further-reading---useful-links)
 
 ## Het Concept
 Het concept van Nihon aishiteruyo is bedacht om het koloniale verleden van Nederland te verbinden met mensen.
