@@ -25,6 +25,7 @@ Wij houden van Japan!
     + [Deploying](#deploying)
   * [Further Reading / Useful Links](#further-reading---useful-links)
 
+
 ## Het Concept
 Het concept van Nihon aishiteruyo is bedacht om het koloniale verleden van Nederland te verbinden met mensen.
 Het verleden van Nederland in Japan speelt zich af in Deshima. Door middel van deze online applicatie wil ik bezoekers van het NMVW de handelspost Deshima laten leren kennen. Deshima is een klein stukje Nederland in Japan nabij de havenstad Nagasaki. Voor de Nederlanders was er een kunstmatig eiland opgebouwd waar zij 
