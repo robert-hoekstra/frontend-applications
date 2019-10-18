@@ -1,4 +1,40 @@
-# ember-quickstart
+# Nihon aishiteruyo!
+Wij houden van Japan!
+
+## Table of Contents
+
+## Het Concept
+Het concept van Nihon aishiteruyo is bedacht om het koloniale verleden van Nederland te verbinden met mensen.
+Het verleden van Nederland in Japan speelt zich af in Deshima. Door middel van deze online applicatie wil ik bezoekers van het NMVW de handelspost Deshima laten leren kennen. Deshima is een klein stukje Nederland in Japan nabij de havenstad Nagasaki. Voor de Nederlanders was er een kunstmatig eiland opgebouwd waar zij 
+
+## Voor wie is de applicatie?
+De applicatie is voor iedereen beschikbaar. Maar de doielgroep bestaat voornamelijk uit Japanners levend in Nederland,  Nederlandse Japanners en mensen die gewoon fanatiek van Japan houden. In Amstelveen bevindt zich een van de grootste Japanse communities van west-europa. Uitgerekend een mooie kans om een concept te ontwikkelen dat naadloos aansluit bij deze doelgroep.
+
+## Welke data wordt er gebruikt?
+De data die gebruikt wordt is hoofdzakelijk afkomstig uit de collectie van het NMVW. Deze data zal bestaan uit beeldmateriaal, objecten, jaartallen en geschreven teksten die een relatie hebben tot Deshima.
+
+### Hoe wordt de data verkregen?
+De data wordt opgevraagd door middel van SparQL queries. Deze data wordt ingeladen en wordt omgevormd tot een format dat door de meeste browsers gelezen kan worden.
+
+## Op welke devices gaat het werken?
+Alle devices met Google Chrome als webbrowser. Andere browsers zullen ongetwijfeld de applicatie kunnen starten en lezen. Maar de applicatie is niet geoptimaliseerd voor deze browsers. Voor de beste ervaring raad ik aan om Chrome te gebruiken.
+
+## Hoe start ik de applicatie (online)?
+De applicatie is hier te vinden:[Nihon Aishiteruyo](https://emberrob.herokuapp.com/)
+
+## Hoe start ik de applicatie (offline)?
+Maak een lokale kopie van deze repo door hem te pullen naar een directory naar keuze.
+Gebruik een Git GUI of CLI om de repo te clonen.
+
+Als de repo gecloned is. Navigeer dan met de terminal naar de root van de applicatie. Wanneer je daar bent dan kun je de applicatie starten door middel van het commando: 'npm install' gevolgd door 'npm start'
+
+## Geen NPM of Node?
+Voor het gebruik van de applicatie in een lokale omgeving heb je Node en NPM nodig.
+Hoe je dat installeert kun je hier vinden>
+- [Node](https://nodejs.org/en/download/)
+- [NPM](https://www.npmjs.com/get-npm)
+
+# How to get Ember running
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
