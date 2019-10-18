@@ -1,7 +1,7 @@
 # Nihon aishiteruyo!
 Wij houden van Japan!
 
-![Promo image of application](https://imgur.com/ILfI2Y4)
+![Imgur](https://imgur.com/ILfI2Y4)
 
 ## Table of Contents
 
