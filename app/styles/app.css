@@ -1,0 +1,71 @@
+footer{
+    background-color: #971C3C;
+}
+
+img{
+    max-width: 100%;
+}
+
+ul > img{
+    width: 10%;
+}
+header{
+    background-color: #971C3C;
+}
+
+a:active{
+    color: #48665E;
+}
+
+a:hover{
+    color: #FBBD5C;
+}
+
+a:visited{
+    color: white;
+}
+
+body{
+    margin: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: #EEEBE7;
+}
+
+div#wrapper{
+    background-color: white;
+}
+
+div#inner-wrapper{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.link{
+    list-style: none;
+    color: white;
+    padding: 1em;
+}
+
+.link:hover{
+    list-style: none;
+    color: white;
+    padding: 1em;
+    background-color: #FBBD5C;
+}
+
+.menu ul{
+    display: flex;
+  
+    /* Then we define the flow direction 
+       and if we allow the items to wrap 
+     * Remember this is the same as:
+     * flex-direction: row;
+     * flex-wrap: wrap;
+     */
+    flex-flow: row wrap;
+    
+    /* Then we define how is distributed the remaining space */
+    justify-content: space-around;
+  }
+

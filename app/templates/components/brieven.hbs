@@ -1,0 +1,18 @@
+
+<ul class="brief">
+{{#each @brieven as |brief|}}
+<li>
+  <h2>{{brief.title}}</h2>
+  <h4>De directe link naar de collectie: <a href="{{brief.cho}}">NVMW-collectie</a></h4>
+  <a href="{{brief.image}}">link</a>
+  <img src="{{brief.image}}" alt="de brief">
+  <p>Deze brief is afkomstig uit: {{brief.placeName}}</p>
+<h4>Vertalen maar!</h4>
+<p>Schrijf in het tekstveld hieronder jouw interpetatie van deze brief.</p>
+<h4>Tekstveld</h4>
+<form action="{{rootURL}}+{{brief.title}}" method="get"></form>
+<textarea rows="4" cols="50"></textarea>
+<button>Versturen</button>
+</li>
+  {{/each}}
+  </ul>
