@@ -7,6 +7,8 @@ Wij houden van Japan!
 - [Nihon aishiteruyo!](#nihon-aishiteruyo-)
   * [Inhoudsopgave](#inhoudsopgave)
   * [Het Concept](#het-concept)
+  * [Johan uit Deshima](#johan-uit-deshima)
+  * [Analyseren, Schrijven, Versturen!](#analyseren-schrijven-versturen-)
   * [Voor wie is de applicatie?](#voor-wie-is-de-applicatie-)
   * [Welke data wordt er gebruikt?](#welke-data-wordt-er-gebruikt-)
     + [Hoe wordt de data verkregen?](#hoe-wordt-de-data-verkregen-)
@@ -30,13 +32,19 @@ Wij houden van Japan!
 Het concept van Nihon aishiteruyo is bedacht om het koloniale verleden van Nederland te verbinden met mensen.
 Het verleden van Nederland in Japan speelt zich af in Deshima. Door middel van deze online applicatie wil ik bezoekers van het NMVW de handelspost Deshima laten leren kennen. Deshima is een klein stukje Nederland in Japan nabij de havenstad Nagasaki. Voor de Nederlanders was er een kunstmatig eiland opgebouwd waar zij konden  wonen en hun beroep uitoefenen.
 
+## Johan uit Deshima
+Een persoon is prominent aanwezig in de collectie omtrent Deshima. Deze persoon heeft een hoop brieven geschreven tijdens zijn verblijf in Deshima. Deze brieven zijn goed bewaard gebleven en gedigitaliseerd. Maar de vertaling is nog behoorlijk lastig. Johan schreef namelijk zoals heel gebruikelijk in die tijd met hele mooie lusletters en oud Nederlandse woorden.
+
+## Analyseren, Schrijven, Versturen!
+Samen met de community willen wij de brieven van Johan zo goed mogelijk begrijpen. En daarom hebben wij iedereen zijn hulp nodig! Kies een brief naar keuze en analyseer deze. Vervolgens kun jij je eigen interpetatie van de brief opschrijven en versturen naar de database! Zo creëren wij een collectie van ingezonden verhalen en kunnen we beter het verhaal van Johan leren kennen.
+
 ![Deshima](https://inter-antiquariaat.nl/wp-content/uploads/Nagasaki-Deshima-naar-Engelbert-Kaempfer-ca.-1750.jpg)
 
 ## Voor wie is de applicatie?
 De applicatie is voor iedereen beschikbaar. Maar de doielgroep bestaat voornamelijk uit Japanners levend in Nederland,  Nederlandse Japanners en mensen die gewoon fanatiek van Japan houden. In Amstelveen bevindt zich een van de grootste Japanse communities van west-europa. Uitgerekend een mooie kans om een concept te ontwikkelen dat naadloos aansluit bij deze doelgroep.
 
 ## Welke data wordt er gebruikt?
-De data die gebruikt wordt is hoofdzakelijk afkomstig uit de collectie van het NMVW. Deze data zal bestaan uit beeldmateriaal, objecten, jaartallen en geschreven teksten die een relatie hebben tot Deshima.
+De data die gebruikt wordt is hoofdzakelijk afkomstig uit de collectie van het NMVW. Deze data zal bestaan uit beeldmateriaal, objecten, jaartallen en geschreven teksten die een relatie hebben tot Deshima. De collectie is op dit adres te vinden : [Culturen Collectie](http://collectie.wereldculturen.nl/)
 
 ### Hoe wordt de data verkregen?
 De data wordt opgevraagd door middel van SparQL queries. Deze data wordt ingeladen en wordt omgevormd tot een format dat door de meeste browsers gelezen kan worden.
@@ -108,6 +116,9 @@ Make use of the many generators for code, try `ember help generate` for more det
 ### Deploying
 
 Specify what it takes to deploy your app.
+
+### Live link
+[Heroku](https://dashboard.heroku.com/apps/emberrob)
 
 ## Further Reading / Useful Links
 
